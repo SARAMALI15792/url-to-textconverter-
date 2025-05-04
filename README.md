@@ -1,38 +1,36 @@
-# ======================================================
-# 📦 USAGE GUIDE: URL to Text Converter GitHub Project
-# 🔗 Repo: https://github.com/SARAMALI15792/url-to-textconverter-.git
-# ======================================================
+# =====================================================
+# 🚀 QUICK SETUP: URL to Text Converter (GitHub Project)
+# 📂 Clone & Run in One Go!
+# =====================================================
 
-# ✅ Step 1: Clone the Repository
+# 1️⃣ Clone the repository
 git clone https://github.com/SARAMALI15792/url-to-textconverter-.git
 cd url-to-textconverter-
 
-# ✅ Step 2: Create Virtual Environment (Optional but Recommended)
+# 2️⃣ Create and activate virtual environment
 python -m venv venv
 
-# ✅ Step 3: Activate Virtual Environment
-# --- For Windows:
+# 👉 Activate the virtual environment:
+# For Windows:
 venv\Scripts\activate
-# --- For macOS/Linux:
+# For macOS/Linux:
 source venv/bin/activate
 
-# ✅ Step 4: Install Required Packages
+# 3️⃣ Install required dependencies
 pip install -r requirements.txt
 
-# ✅ Step 5: Run the Application
-# (Replace 'app.py' with the correct filename if different)
+# 4️⃣ Run the app (change filename if needed)
 python app.py
 
-# ✅ Step 6: If It's a Jupyter Notebook (.ipynb)
-# --- Install Jupyter if needed:
+# ✅ If it's a Jupyter Notebook instead:
+# Install Jupyter if not already installed
 pip install notebook
 
-# --- Run the notebook
+# Launch the notebook
 jupyter notebook
 
-# ✅ Step 7: Deactivate Virtual Environment When Done
+# 🔚 Deactivate virtual environment when finished
 deactivate
 
-# 🎯 You're all set! Edit, run, or explore the project freely.
-# Open in VS Code or your preferred editor for easier navigation.
-# ======================================================
+# 🎉 Done! You’ve successfully set up and launched the project.
+# =====================================================
