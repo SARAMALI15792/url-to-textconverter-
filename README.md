@@ -1,1 +1,31 @@
-<pre> ```bash # ===================================================== # 🚀 QUICK SETUP: URL to Text Converter (GitHub Project) # 📂 Clone & Run in One Go! # ===================================================== # 1️⃣ Clone the repository git clone https://github.com/SARAMALI15792/url-to-textconverter-.git cd url-to-textconverter- # 2️⃣ Create and activate virtual environment python -m venv venv # 👉 Activate the virtual environment: # For Windows: venv\Scripts\activate # For macOS/Linux: source venv/bin/activate # 3️⃣ Install required dependencies pip install -r requirements.txt # 4️⃣ Run the app (change filename if needed) python app.py # ✅ If it's a Jupyter Notebook instead: # Install Jupyter if not already installed pip install notebook # Launch the notebook jupyter notebook # 🔚 Deactivate virtual environment when finished deactivate # 🎉 Done! You’ve successfully set up and launched the project. # ===================================================== ``` </pre
+## 📦 Clone & Run the Project
+
+```bash
+# 1. Clone the GitHub repository
+git clone https://github.com/SARAMALI15792/url-to-textconverter-.git
+
+# 2. Navigate into the cloned directory
+cd url-to-textconverter-
+
+# 3. (Optional) Create a virtual environment
+python -m venv venv
+
+# 4. Activate the virtual environment
+# For Windows:
+venv\Scripts\activate
+# For macOS/Linux:
+source venv/bin/activate
+
+# 5. Install project dependencies
+pip install -r requirements.txt
+
+# 6. Run the application
+python app.py
+
+# ✅ If using a Jupyter Notebook instead:
+pip install notebook
+jupyter notebook
+
+# 7. When done, deactivate the virtual environment
+deactivate
+```
