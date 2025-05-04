@@ -1,3 +1,25 @@
+# URL to Text Converter
+
+A simple Python-based application that converts URLs into text content for easy access and usage. This project aims to simplify the process of extracting readable text from URLs, making it easier to analyze or store content.
+
+## Table of Contents
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [Dependencies](#dependencies)
+4. [Contributing](#contributing)
+5. [License](#license)
+
+---
+
+## Installation
+
+Follow the steps below to get the application up and running on your local machine.
+
+
+
+
+
+
 ## 📦 Clone & Run the Project
 
 ```bash
